@@ -1,13 +1,13 @@
-package com.example.demo;
+package com.cg.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JunittestApplication {
+public class StudentServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JunittestApplication.class, args);
+		SpringApplication.run(StudentServiceApplication.class, args);
 	}
 
 }

@@ -1,4 +1,4 @@
-package com.cg.StudentService;
+package com.cg.demo.StudentService;
 
 import java.math.BigInteger;
 import java.security.SecureRandom;
@@ -6,8 +6,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import com.cg.model.Course;
-import com.cg.model.Student;
+import com.cg.demo.model.Course;
+import com.cg.demo.model.Student;
 import org.springframework.stereotype.Component;
 
 

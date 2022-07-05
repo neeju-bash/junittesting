@@ -1,4 +1,4 @@
-package com.cg.model;
+package com.cg.demo.model;
 
 import java.util.List;
 
